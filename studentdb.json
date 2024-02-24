@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "rollNumber": "101",
+      "studentName": "Test",
+      "studentScore": "40",
+      "id": "1"
+    },
+    {
+      "rollNumber": "102",
+      "studentName": "Test2",
+      "studentScore": "20",
+      "id": "2"
+    },
+    {
+      "id": "c87a",
+      "rollNumber": "1",
+      "studentName": "Ram",
+      "studentScore": "87"
+    },
+    {
+      "id": "05c3",
+      "rollNumber": "4",
+      "studentName": "Dev",
+      "studentScore": "98"
+    },
+    {
+      "id": "b6b1",
+      "rollNumber": "7",
+      "studentName": "Shayam",
+      "studentScore": "90"
+    }
+  ]
+}
